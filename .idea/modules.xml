@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" filepath="$PROJECT_DIR$/ArrayListDemo/ArrayListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendsDemo/ExtendsDemo.iml" filepath="$PROJECT_DIR$/ExtendsDemo/ExtendsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object-oriented-exercises/Object-oriented-exercises.iml" filepath="$PROJECT_DIR$/Object-oriented-exercises/Object-oriented-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticAndUtils/StaticAndUtils.iml" filepath="$PROJECT_DIR$/StaticAndUtils/StaticAndUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringDemo/StringDemo.iml" filepath="$PROJECT_DIR$/StringDemo/StringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentManageSystem/StudentManageSystem.iml" filepath="$PROJECT_DIR$/StudentManageSystem/StudentManageSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn1/learn1-basic.iml" filepath="$PROJECT_DIR$/learn1/learn1-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn2-user/learn2-user.iml" filepath="$PROJECT_DIR$/learn2-user/learn2-user.iml" />
+    </modules>
+  </component>
+</project>
